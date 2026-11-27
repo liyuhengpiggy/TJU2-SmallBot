@@ -4,7 +4,7 @@
 
 **2026 年 VEX U 设计奖（Design Award）** · 2026 年 2 月，同济大学 TJU2 战队凭该机器人在「科创青禾 2025–2026 全国 VEX 机器人精英赛暨 VEX 世锦赛中国选拔赛」VEX U 赛项中获得设计奖。
 
-![同济大学 TJU2 SmallBot 实车与 2026 年 VEX U 设计奖奖杯](media/smallbot-design-award.jpg)
+![同济大学 TJU2 SmallBot 实车与 2026 年 VEX U 设计奖奖杯](https://github.com/user-attachments/assets/346c682a-91ee-4d09-a102-aee3c9995dac)
 
 ## 下载 SOLIDWORKS 源文件
 
@@ -25,7 +25,7 @@
 
 | 整车装配 | 侧视图 |
 | --- | --- |
-| ![SmallBot 的 SOLIDWORKS 装配视图](media/smallbot-cad-assembly.png) | ![SmallBot 的 SOLIDWORKS 侧视图](media/smallbot-cad-side.png) |
+| ![SmallBot 的 SOLIDWORKS 装配视图](https://github.com/user-attachments/assets/c09e945d-2513-4804-b7f1-9ac9f4bb07a4) | ![SmallBot 的 SOLIDWORKS 侧视图](https://github.com/user-attachments/assets/de84260f-6f68-4e91-9345-1197d5c067ae) |
 
 ## 项目与组件来源
 
